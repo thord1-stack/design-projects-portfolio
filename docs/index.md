@@ -1,4 +1,4 @@
-# Ty Hord — MEGR 2157 Portfolio
+# Ty Hord — Mechanical Engineering Portfolio
 
 ![MEGR 2156-7 Title](MEGR2156title.png)
 
