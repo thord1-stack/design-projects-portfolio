@@ -11,12 +11,15 @@ Another engineering portfolio I found was made by Nathaniel Karau. He did use Gi
 The Product that I chose to analyze is a Pen+Gear hole punch. The primary function of this device is to use the force from your hand as you squeeze to shove a rod through a piece of paper to provide a hole in the sheet of paper. It is a Pen+Gear hole punch. It uses a spring to come back open after you squeeze it, so spring and force equations could be used there. A shear force equation could also be used to describe what is happening when you use the puncher to punch a hole through the piece of paper.
 
 ![spring/handles](IMG_2901.jpeg)
+
 Since the spring is inside of the handles pushing them outwards. It allows the hole punch to reopen by itself after each punch.
 
 ![head_of_puncher](IMG_2902.jpeg)
+
 The head of the hole punch has a guard to help keep the paper in place, a rod on one side, and a hole on the other. All of these things hold the paper in the same place and allows it to punch out a clean hole.
 
 ![handle_pin](IMG_2903.jpeg)
+
 This pin holds both handles and all of the components together. This pin also allows the hole punch to rotate the arms to compress and put pressure on the sheet of paper to punch a hole.
 
 
