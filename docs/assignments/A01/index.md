@@ -24,7 +24,13 @@ This pin holds both handles and all of the components together. This pin also al
 
 This products components was designed in 1885 as a conductors hole punch and isn't under a patent since it has been over a century. Two other devices that also achieve this are a multi hole desk top punch (Patent # 509,997 by Friedrich Soennecken) and the Japanese screw punch (by Kiichi Nonaka). The multi hole desktop punch is made with a handle that you push down to punch three holes into the paper. Why I think that they would make this chouse to put a handle that you push down would to be to make it a easy tool to use for businesses that deal with a lot of hole punching in paper. The Japanese screw punch is just a handle that you hold like a knife and poke it into the paper to create the hole. I believe they chose this idea to make it a far less complicated and simple design. 
 ## Decide
-
+On the homepage I made sure everything was constant for example a paragraph would say megr 2157 and the picture would say megr 2156. 
 
 ## Communicate
+Ty Hord
+As an engineer I am a problem solver and a designer to help improve the world. Problem solving, designing and working on things with my hands is what brought me to engineering. I have begun to take an interest in robotics, aerospace, and vehicles. These things specifically have taken my interest because they can be large machines that can be complex or small machines that fulfill a small role in an operation and even if it is a small machine it can have a huge impact on the world.
 
+What does it mean to defend an engineering decision: and do you currently know how to do it?
+To defend an engineering decision is to take in the pros and cons of a decision and decide what is best for a design and be able to justify why you would make that decision rather than making another one. I believe I know how to make an engineering decision and how to defend it but not as well as a true engineer yet.
+
+I spent about 4 hours on this assignment. 
