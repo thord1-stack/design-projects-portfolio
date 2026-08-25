@@ -24,7 +24,11 @@ This pin holds both handles and all of the components together. This pin also al
 
 This products components was designed in 1885 as a conductors hole punch and isn't under a patent since it has been over a century. Two other devices that also achieve this are a multi hole desk top punch (Patent # 509,997 by Friedrich Soennecken) and the Japanese screw punch (by Kiichi Nonaka). The multi hole desktop punch is made with a handle that you push down to punch three holes into the paper. Why I think that they would make this chouse to put a handle that you push down would to be to make it a easy tool to use for businesses that deal with a lot of hole punching in paper. The Japanese screw punch is just a handle that you hold like a knife and poke it into the paper to create the hole. I believe they chose this idea to make it a far less complicated and simple design. 
 ## Decide
-On the homepage I made sure everything was constant for example a paragraph would say megr 2157 and the picture would say megr 2156. 
+A visitor needs to know immediately where everything is, what the page is about, and how to navigate the page. I believe this page could use some work to make everything stand out a little more to the reader but I believe the solution to that would be to get some pictures of projects and some more detail about what I do in this class. So I haven't changed much about the homepage and hopefully will get some pictures of projects like the air engine to show the reader what the page is about. 
+
+On the homepage I made sure everything was constant for example a paragraph would say megr 2157 and the picture would say megr 2156. I also changed the title of my portfolio to mechanical engineering portfolio instead of megr 2157 portfolio. I changed this because it seems more professional than titling it as my class that I am in. 
+
+The quality standard that I would like to set for myself would be to do my best to begin all assignments as soon as possible and submit all assignments on time while also working toward at least a %80 on all assignments. 
 
 ## Communicate
 Ty Hord
