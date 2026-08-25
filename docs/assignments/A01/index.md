@@ -22,7 +22,7 @@ The head of the hole punch has a guard to help keep the paper in place, a rod on
 
 This pin holds both handles and all of the components together. This pin also allows the hole punch to rotate the arms to compress and put pressure on the sheet of paper to punch a hole.
 
-
+This products components was designed in 1885 as a conductors hole punch and isn't under a patent since it has been over a century. Two other devices that also achieve this are a multi hole desk top punch (Patent # 509,997 by Friedrich Soennecken) and the Japanese screw punch (by Kiichi Nonaka). The multi hole desktop punch is made with a handle that you push down to punch three holes into the paper. Why I think that they would make this chouse to put a handle that you push down would to be to make it a easy tool to use for businesses that deal with a lot of hole punching in paper. The Japanese screw punch is just a handle that you hold like a knife and poke it into the paper to create the hole. I believe they chose this idea to make it a far less complicated and simple design. 
 ## Decide
 
 
