@@ -5,6 +5,7 @@ The objective of this assignment was to construct, analyze, and complete a Cad m
 
 ![parameters](parameters)
 ## Analyze
+![1stpage](truss1stpage)
 
 
 ## Decide
