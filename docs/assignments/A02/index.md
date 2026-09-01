@@ -9,6 +9,8 @@ The objective of this assignment was to construct, analyze, and complete a Cad m
 
 This is where I began working on the assignment. I drew out the picture of the parameters and decided on a truss frame that I thought would be able to work according to the parameters. I also did some intial calculations and worked out some free body diagrams on this page also.
 
+![forcestruss](symbolicforcetruss)
+
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
