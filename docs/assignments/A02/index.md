@@ -20,6 +20,10 @@ On this page I solved for the minimum cross sectional area of the truss. For the
 
 ![connectingpins](connectingpinFBD)
 
+After those steps I then needed to determine the cross sectional area of the connecting pins. Which are made out of a hardened tool steel with a yield strength of 170 Ksi and a density of 0.278lb/in^3. Also according to the parameters I was to assume that all the elements in compression can not buckle. To calculate this I used a safety factor of 4. 
+
+![cadtrussA](workingcadtruss)
+
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
