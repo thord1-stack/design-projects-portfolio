@@ -28,8 +28,10 @@ After all of my calculations I headed over to Creo parametric and started workin
 
 ![trussfinal](finishedtrusscad)
 
+The truss was completed to the parameters requested. The final weighted that Creo parametric calculated was 5.16 kg. So I was 0.13 kg off this could've been a rounding issue on my part while typing everything into the calculator. 
+
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
+I selected this geometry because it reminded me of bridges that you can see all around the world today. These bridges have to be strong and last for a long time in their environments so I decided I wanted to make my truss similar. Throughout my calculations it did turn out that truss CD didn't have any internal forces, so that truss wasn't necessary but I continued my calculations to the end.
 ## Communicate
 
