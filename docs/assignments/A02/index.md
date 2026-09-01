@@ -30,7 +30,7 @@ After all of my calculations I headed over to Creo parametric and started workin
 
 The truss was completed to the parameters requested. The final weighted that Creo parametric calculated was 5.16 kg. So I was 0.13 kg off this could've been a rounding issue on my part while typing everything into the calculator. 
 
-
+[Download CAD file]()
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
