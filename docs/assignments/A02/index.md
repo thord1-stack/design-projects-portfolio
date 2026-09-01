@@ -24,6 +24,10 @@ After those steps I then needed to determine the cross sectional area of the con
 
 ![cadtrussA](workingcadtruss)
 
+After all of my calculations I headed over to Creo parametric and started working on the CAD model. I was instructed not to include the pins in this cad model and keep it to one single part. I made sure all of the cross sectional area still came out to the calculated amount of 203.21 mm^2. 
+
+![trussfinal](finishedtrusscad)
+
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
