@@ -17,6 +17,9 @@ This is where I spent a majority of my time working on this assignment. I beginn
 ![trussweight](weightoftruss)
 
 On this page I solved for the minimum cross sectional area of the truss. For the safety factor I used 3.5 as per the parameters listed in the assignment. To determine the weight of the truss I added all of the lengths up of the trusses and multiplied them by the cross sectional area I got in the previous step. Now that I had the volume I researched the weight of steel and multiple the volume by the weight (7,850 kg/m^3). This turned out to be 5.297 kg for the weight of my truss or 51.97 N.
+
+![connectingpins](connectingpinFBD)
+
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
