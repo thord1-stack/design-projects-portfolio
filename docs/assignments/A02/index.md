@@ -5,23 +5,33 @@ The objective of this assignment was to construct, analyze, and complete a Cad m
 
 ![parameters](parameters)
 ## Analyze
+### Truss Frame
 
 ![1stpage](truss1stpage)
-### Parameters
+
 This is where I began working on the assignment. I drew out the picture of the parameters and decided on a truss frame that I thought would be able to work according to the parameters. I also did some intial calculations and worked out some free body diagrams on this page also.
+
+### Calculations
+
 ![jointspg1](joints1)
 ![jointspg2](Joints2)
 ![forcestruss](symbolicforcestruss)
 
 This is where I spent a majority of my time working on this assignment. I beginning to struggle with keeping everything in symbolic terms instead of numbers but once I got the hang of it I started moving along. I found this part interesting because while working only with terms you start to notice that a lot of the terms cancel out before they reach the end of the problem. Then as you can see once I got all of the joints in symbolic terms I plugged all of the numbers in for the terms and solved the problems numerically. 
 
+### Cross Sectional Area of Truss
+
 ![trussweight](weightoftruss)
 
 On this page I solved for the minimum cross sectional area of the truss. For the safety factor I used 3.5 as per the parameters listed in the assignment. To determine the weight of the truss I added all of the lengths up of the trusses and multiplied them by the cross sectional area I got in the previous step. Now that I had the volume I researched the weight of steel and multiple the volume by the weight (7,850 kg/m^3). This turned out to be 5.297 kg for the weight of my truss or 51.97 N.
 
+### Connecting Pins
+
 ![connectingpins](connectingpinFBD)
 
 After those steps I then needed to determine the cross sectional area of the connecting pins. Which are made out of a hardened tool steel with a yield strength of 170 Ksi and a density of 0.278lb/in^3. Also according to the parameters I was to assume that all the elements in compression can not buckle. To calculate this I used a safety factor of 4. 
+
+### CAD Models
 
 ![cadtrussA](workingcadtruss)
 
@@ -30,6 +40,8 @@ After all of my calculations I headed over to Creo parametric and started workin
 ![trussfinal](finishedtrusscad)
 
 The truss was completed to the parameters requested. The final weighted that Creo parametric calculated was 5.16 kg. So I was 0.13 kg off this could've been a rounding issue on my part while typing everything into the calculator. 
+
+### CAD Files
 
 [Truss_Cad_File](https://github.com/thord1-stack/design-projects-portfolio/raw/refs/heads/main/docs/assignments/A02/trussdesign_tyh.prt.1)
 
