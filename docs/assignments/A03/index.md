@@ -5,6 +5,15 @@ My Objective was to design a beam parametrically. The Parameters were the load m
 
 ![workpicture](mywork)
 
+Next I made my cad model to fit these parameters and put the CAD model into a simulation.
+
+![workpicture](simulation)
+
+The simulation was successful and I got a deflection map and a von mises stress map.
+
+![workpicture]()
+
+![workpicture]()
 
 ## Analyze
 
