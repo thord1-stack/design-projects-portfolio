@@ -7,7 +7,7 @@ My Objective was to design a beam parametrically. The Parameters were the load m
 
 Next I made my cad model to fit these parameters and put the CAD model into a simulation.
 
-[Onshape](https://cad.onshape.com/documents/4b2b2dadf6309768fe7d6367/w/734d9ffa4b9a44e82c85588f/e/525dfaf0c277ea6e7b6c8237?)
+[MyCADFile](https://cad.onshape.com/documents/4b2b2dadf6309768fe7d6367/w/734d9ffa4b9a44e82c85588f/e/525dfaf0c277ea6e7b6c8237?)
 
 ![workpicture](cadmodel)
 
