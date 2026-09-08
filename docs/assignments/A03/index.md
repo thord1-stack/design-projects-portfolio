@@ -11,17 +11,17 @@ Next I made my cad model to fit these parameters and put the CAD model into a si
 
 ![workpicture](simulation)
 
+
+## Analyze
 The simulation was successful and I got a deflection map and a von mises stress map.
 
 ![workpicture](displacement)
 
 ![workpicture](stress)
 
-## Analyze
-
-
-## Decide
+The total displacement that the simulation came up with was 0.00787 so it was under the max deflection and not too far off of my calculation but was not exactly my calculations. This could be due to some sort of rounding error or me putting slightly different information into the simulation on accident. 
 
 
 ## Communicate
-
+I learned how to make a simulation. I have never used any sort of simulation for a cad model before so I thought it was really interesting. 
+This assignment took me about 2 hours to complete.
