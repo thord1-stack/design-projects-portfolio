@@ -17,4 +17,4 @@ This is my attempt at an isometric sketch. I labeled all of the thicknesses heig
 ## CAD Model (Parametric)
 ![CAD](CAD)
 And this is my final result in CAD after all of the calculations. I don't believe that it looks exactly like the original picture. This could've been due to not understanding a all of this material entirely yet or a few rounding errors. I will work more towards understanding this material better in the future to fix this problem. Below is the cad file.
-[Truss_Cad_File](https://github.com/thord1-stack/design-projects-portfolio/raw/refs/heads/main/docs/assignments/A02/trussdesign_tyh.prt.1)
+[motormount](https://github.com/thord1-stack/design-projects-portfolio/raw/refs/heads/main/docs/assignments/A04/motor_mount.prt.1)
