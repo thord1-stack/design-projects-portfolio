@@ -9,7 +9,7 @@
 
 ![Bracket](one.3)
 
-These are all of my analyses from question one of the assignment. The assignment was to analyze a bracket 
+These are all of my analyses from question one of the assignment. The assignment was to analyze a bracket that would fit onto the first picture above and will hold a 
 ## Calculating Dimensions from stiffness analysis
 ![Bracket](two.1)
 
