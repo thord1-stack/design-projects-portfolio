@@ -9,7 +9,7 @@
 
 ![Bracket](one.3)
 
-These are all of my analyses from question one of the assignment. The assignment was to analyze a bracket that would fit onto the first picture above and will hold a 
+These are all of my analyses from question one of the assignment. The assignment was to analyze a bracket that would fit onto the first picture above and will hold a strap.
 ## Calculating Dimensions from stiffness analysis
 ![Bracket](two.1)
 
@@ -17,6 +17,7 @@ These are all of my analyses from question one of the assignment. The assignment
 
 ![Bracket](two.3)
 
+These are all of my analyses from the second question where I analyzed stuffness.
 ## Generate Multiview sketches
 
 [bracket](bracket_tyh.prt.1)
