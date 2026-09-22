@@ -1,13 +1,13 @@
 # A5 – [Topic]
 
-## Objective
+## Calculating Dimensions from stress analysis
 
 
-## Analyze
+## Calculating Dimensions from stiffness analysis
 
 
-## Decide
+## Generate Multiview sketches
 
 
-## Communicate
+## Lessons learned 
 
