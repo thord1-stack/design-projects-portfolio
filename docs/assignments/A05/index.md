@@ -1,6 +1,6 @@
 # A5 – [Topic]
 
-![Bracket](Screenshot 2026-09-22 021625.png)
+![Bracket](pic)
 
 ## Calculating Dimensions from stress analysis
 ![Bracket](one.1)
