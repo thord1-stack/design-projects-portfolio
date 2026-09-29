@@ -13,7 +13,7 @@ These are my parameters. I thought it was really cool setting these parameters u
 ![Bracket](drawing)
 This is my drawing of a bracket with my tolerances. I did struggle a little bit to get this far but eventually I got the hang of it. 
 ## Reflection 
-I used strength to drive atleast one dimension of the parametric model. 
+I used strength to drive atleast one dimension of the parametric model. My bracket is meant to be a sliding fit. So it would slide onto whatever beam to hold the polyester strap. 
 
 This assignment took me about 4 hours 
 
