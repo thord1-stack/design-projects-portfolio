@@ -2,10 +2,10 @@
 
 ## Parametric Design 
 
-
+![Bracket](pic)
 ## Drawing 
 
-
+![Bracket](pic)
 ## Reflection 
 
 
