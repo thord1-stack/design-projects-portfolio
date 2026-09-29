@@ -3,7 +3,7 @@
 ## Parametric Design 
 [bracket](bracket_tyh.prt.3)
 
-![Bracket](parameters)
+![Bracket](Bracket)
 
 ![Bracket](parameters)
 ## Drawing 
