@@ -1,12 +1,12 @@
-# A6 – [Topic]
+# A6 – [Bracket Drawing]
 
-## Objective
-
-
-## Analyze
+## Parametric Design 
 
 
-## Decide
+## Drawing 
+
+
+## Reflection 
 
 
 ## Communicate
