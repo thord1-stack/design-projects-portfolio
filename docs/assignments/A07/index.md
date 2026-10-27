@@ -1,13 +1,14 @@
 # A7 – [Topic]
 
-## Objective
+## Inner Loop
+I could not get my results to convert on 7% even after 3 different tries. Below are pictures of my Cad Models and FEA's.
 
 
-## Analyze
+## Outer Loop
 
 
-## Decide
+## Table and Cad Model
 
 
-## Communicate
+## Reflection
 
