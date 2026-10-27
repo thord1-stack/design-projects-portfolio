@@ -12,7 +12,7 @@ Once on the outer loop I started changing my geometry for example adding another
 ![Bracket](Stress3)
 ![Bracket](Displacement3)
 ## Table and Cad Model
-
+![Bracket](table)
 
 ## Reflection
 
