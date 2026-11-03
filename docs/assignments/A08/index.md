@@ -1,10 +1,10 @@
 # A8 – Gears
 
 ## Input Shaft
-![Bracket](Stress)
+![Bracket](Input_Shaft)
 ![Bracket](Stress)
 ## Output Shaft
-![Bracket](Stress)
+![Bracket](Outputshaft)
 ![Bracket](Stress)
 ## Design journal Bearings
 ![Bracket](Djb)
