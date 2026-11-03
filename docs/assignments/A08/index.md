@@ -14,5 +14,5 @@
 ## CAD Model
 ![Bracket](GB_Front)
 ![Bracket](GB_Top)
+[bracket]()
 ## Lessons Learned
-![Bracket](Stress)
