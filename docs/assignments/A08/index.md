@@ -7,8 +7,10 @@
 ![Bracket](Stress)
 ![Bracket](Stress)
 ## Design journal Bearings
-![Bracket](Stress)
-![Bracket](Stress)
+![Bracket](Djb)
+![Bracket](Djb2)
+![Bracket](Djt)
+![Bracket](djt2)
 ## CAD Model
 ![Bracket](GB_Front)
 ![Bracket](GB_Top)
