@@ -14,5 +14,6 @@
 ## CAD Model
 ![Bracket](GB_Front)
 ![Bracket](GB_Top)
-[bracket](Gear_Boxzip.zip)
+
+[GearBox](Gear_Boxzip.zip)
 ## Lessons Learned
