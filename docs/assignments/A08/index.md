@@ -2,10 +2,10 @@
 
 ## Input Shaft
 ![Bracket](Input_Shaft)
-![Bracket](Stress)
+
 ## Output Shaft
 ![Bracket](Outputshaft)
-![Bracket](Stress)
+
 ## Design journal Bearings
 ![Bracket](Djb)
 ![Bracket](Djb2)
