@@ -9,8 +9,8 @@
 ## Design journal Bearings
 ![Bracket](Djb)
 ![Bracket](Djb2)
-![Bracket](Djt)
-![Bracket](djt2)
+![Bracket](Dtj)
+![Bracket](dtj2)
 ## CAD Model
 ![Bracket](GB_Front)
 ![Bracket](GB_Top)
