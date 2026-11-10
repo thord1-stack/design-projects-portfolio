@@ -1,13 +1,13 @@
 # A9 – Pulleys
 
-## Objective
+## #1 (a-b)
 
 
-## Analyze
+## #2 (a-b)
 
 
-## Decide
+## #3 (a-e)
 
 
-## Communicate
+## #4
 
