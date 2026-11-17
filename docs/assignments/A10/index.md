@@ -43,7 +43,7 @@ I drew the flat profile of the crosshead using the dimensions from our calculati
 
 ![Lead screw assembly showing the crosshead and frame](C1.jpg)
 
-[Download the A10 Lead Screw Assembly (STEP file)](A10 Lead Screw Assembly.step)
+[Download the A10 Lead Screw Assembly (STEP file)](./A10%20Lead%20Screw%20Assembly.step)
 
 ## Communicate
 
