@@ -38,7 +38,7 @@ For this assignment, I had to do some handwritten calculations. After I was done
 
 ### Hand Calculations
 
-![Hand calculations, page H4](./H4.jpg)
+![Hand calculations, page H4](./H4 (1).jpg)
 
 ![Hand calculations, page H5](./H5.jpg)
 
